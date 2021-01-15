@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 My name is Prashant sagar. I currently live in Gwalior, India!
 
-- 🏃 I love running
+- 🏃 I love adventure
 - 👨‍💻 Open source ftw
 - 🌐 Visit my [website and portfolio][website]
 - 🎓 Studying Computer Science at ITM unniversity gwalior
