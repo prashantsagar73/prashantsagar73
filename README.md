@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Prashant sagar. I currently live in Bihar, India!
+My name is Prashant sagar. I currently live in Gwalior, India!
 
 - 🏃 I love running
 - 👨‍💻 Open source ftw
