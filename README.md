@@ -15,17 +15,25 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsagar73&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsagar73" /> </p>
 
 
 
-### Hi there 👋
 
-My name is Prashant sagar. I currently live in Gwalior, India!
+
+<h1 align="center">Hi 👋, I'm Prashant sagar</h1>
+
+<h3 align="center">A self-made programmer from India</h3>
 
 - 🏃 I love adventure
 - 👨‍💻 Open source ftw
 - 🌐 Visit my [website and portfolio][website]
 - 🎓 Studying Computer Science at ITM unniversity gwalior
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/prashant-sagar-073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prashant-sagar-073" height="30" width="40" /></a>
+</p>
 
 ## Tools and Languages
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
