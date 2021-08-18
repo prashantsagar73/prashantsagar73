@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🏃 I love adventure
 - 👨‍💻 Open source ftw
-- 🌐 Visit my [website and portfolio][website]
+- 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
 - 🎓 Studying Computer Science at ITM unniversity gwalior
 
 <p align="left">
