@@ -22,24 +22,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Prashant sagar</h1>
-
 <p align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;A+self+made+programmer+from India;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
-  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E0F758&size=19&lines=%F0%9F%8F%83+I+love+adventure;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+source+ftw;A+self-made+programmer+from+India;Web+Development;Always+learning+new+things)](https://git.io/typing-svg)
 </p>
-<h3 align="center">A self-made programmer from India</h3>
 
-- 🏃 I love adventure
-- 👨‍💻 Open source ftw
 - 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
 - 🎓 Studying Computer Science at ITM unniversity gwalior
+<a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  
- 
-
-
 ## Tools and Languages
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
@@ -52,9 +43,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-  
-  <!--<a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
+ 
   
 </p>
 
@@ -64,4 +53,4 @@ Here are some ideas to get you started:
 
 [github]: https://github.com/prashantsagar73
 [website]: http://prashantsagar.tech
-### [[buy me a coffie]](https://www.buymeacoffee.com/prashantsagar73)
+ <a href="https://www.buymeacoffee.com/prashantsagar73"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
