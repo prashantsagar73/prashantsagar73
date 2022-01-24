@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Prashant sagar</h1>
 
+<p align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;A+self+made+programmer+from India;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
+  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
+</p>
 <h3 align="center">A self-made programmer from India</h3>
 
 - 🏃 I love adventure
@@ -30,13 +37,7 @@ Here are some ideas to get you started:
 - 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
 - 🎓 Studying Computer Science at ITM unniversity gwalior
  
- <p align="center">
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
-  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
-</p>
+ 
 
 
 ## Tools and Languages
