@@ -47,6 +47,14 @@ Here are some ideas to get you started:
 <br />
 
 ---
+<p align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
+  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  
+  <!--<a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
+  
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantsagar73&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
 
