@@ -30,15 +30,14 @@ Here are some ideas to get you started:
 - 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
 - 🎓 Studying Computer Science at ITM unniversity gwalior
  
+ <p align="center">
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
   <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/prashant-sagar-073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prashant-sagar-073" height="30" width="40" /></a>
 </p>
+
 
 ## Tools and Languages
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
@@ -52,7 +51,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<p align="center">
 
   
   <!--<a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
