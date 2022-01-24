@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 - 👨‍💻 Open source ftw
 - 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
 - 🎓 Studying Computer Science at ITM unniversity gwalior
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
+  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -48,9 +53,7 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+Blockchain+Technologies;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)](https://github.com/adreaskar)
-  <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
   
   <!--<a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>-->
   
