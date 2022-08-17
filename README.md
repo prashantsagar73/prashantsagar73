@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🌐 Visit my [[Portfolio website]](https://prashanttech.herokuapp.com/)
-- 🎓 Studying Computer Science at ITM unniversity gwalior
+- 🎓 Software Enginear 
 <a href="https://www.linkedin.com/in/prashant-sagar-073"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  
 ## Tools and Languages
